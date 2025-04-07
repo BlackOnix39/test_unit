@@ -1,0 +1,23 @@
+{
+  "name": "test_unit",
+  "version": "1.0.0",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackOnix39/test_unit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackOnix39/test_unit/issues"
+  },
+  "homepage": "https://github.com/BlackOnix39/test_unit#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
