@@ -27,3 +27,6 @@ test ( 'computes factorial correctly', () => {
 });
 
 //These notes were written so that we wouldn't forget anything, but no matter how hard we tried, we'd forget something anyway.
+
+//pipi pupu check
+//hello, world 
