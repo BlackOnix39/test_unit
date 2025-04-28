@@ -25,3 +25,5 @@ test ( 'substract 83 - 26 to equal 57', () => {
 test ( 'computes factorial correctly', () => {
     expect ( returnFactorial (5)).toBe (120);
 });
+
+//These notes were written so that we wouldn't forget anything, but no matter how hard we tried, we'd forget something anyway.
